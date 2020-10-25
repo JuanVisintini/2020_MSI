@@ -11,9 +11,14 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 
+| 110519 | Brizuela Leandro Ignacio |[leabrizuela](https://github.com/leabrizuela)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+
 | 110398 | Lopez, Federico Leonel |[federicolopez110398](https://github.com/federicolopez110398)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+
+| 111529| Fassi, Francisco Matias |[franciscofassi](https://github.com/franciscofassi)|[UserLinkedin](https://ar.linkedin.com/)|
+
 | 111607 | Visintini, Juan Ignacio |[JuanVisintni](https://github.com/JuanVisintini)|[UserLinkedin](https://ar.linkedin.com/)|
 
 
@@ -21,7 +26,7 @@
 
 ## Trabajo Practico Entregas :clipboard:
 - [*] Entrega Primera Parte
-- [ *] Entrega Segunda Parte
+- [*] Entrega Segunda Parte
 - [ ] Entrega Tercera Parte
 
 ## Trello :clipboard:
